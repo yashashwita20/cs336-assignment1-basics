@@ -164,3 +164,4 @@ cython_debug/
 # Local data and macOS files
 data/
 .DS_Store
+outputs/
